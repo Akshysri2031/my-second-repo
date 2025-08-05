@@ -1,6 +1,5 @@
 # my-second-repo
 
 
-sri harshitha 
-Data Science
-save the data
+sri harshitha Data Science 
+store the data
